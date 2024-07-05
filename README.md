@@ -450,25 +450,25 @@ Here are the key questions we need to answer for our marketing client:
 
 | Rank | Channel Name         | Subscribers (M) |
 |------|----------------------|-----------------|
-| 1    | NoCopyrightSounds    | 33.60           |
-| 2    | DanTDM               | 28.60           |
-| 3    | Dan Rhodes           | 26.50           |
-| 4    | Miss Katy            | 24.50           |
-| 5    | Mister Max           | 24.40           |
+| 1    | NoCopyrightSounds    | 33.70           |
+| 2    | DanTDM               | 28.80           |
+| 3    | Dan Rhodes           | 27.00           |
+| 4    | Miss Katy            | 24.70           |
+| 5    | Mister Max           | 24.50           |
 | 6    | KSI                  | 24.10           |
-| 7    | Jelly                | 23.50           |
-| 8    | Dua Lipa             | 23.30           |
-| 9    | Sidemen              | 21.00           |
-| 10   | Ali-A                | 18.90           |
+| 7    | Dua Lipa             | 23.60           |
+| 8    | Jelly                | 23.60           |
+| 9    | Ali-A                | 18.90           |
+| 10   | colinfurze           | 18.90           |
 
 
 ### 2. Which 3 channels have uploaded the most videos?
 
 | Rank | Channel Name    | Videos Uploaded |
 |------|-----------------|-----------------|
-| 1    | GRM Daily       | 14,696          |
-| 2    | Manchester City | 8,248           |
-| 3    | Yogscast        | 6,435           |
+| 1    | Boomerang UK    | 170,452         |
+| 2    | More Emily      | 49,204          |
+| 3    | Sing King       | 41,067          |
 
 
 
@@ -477,27 +477,27 @@ Here are the key questions we need to answer for our marketing client:
 
 | Rank | Channel Name | Total Views (B) |
 |------|--------------|-----------------|
-| 1    | DanTDM       | 19.78           |
-| 2    | Dan Rhodes   | 18.56           |
-| 3    | Mister Max   | 15.97           |
+| 1    | DanTDM       | 19.86           |
+| 2    | Dan Rhodes   | 18.85           |
+| 3    | Mister Max   | 16.11           |
 
 
 ### 4. Which 3 channels have the highest average views per video?
 
 | Channel Name | Averge Views per Video (M) |
 |--------------|-----------------|
-| Mark Ronson  | 32.27           |
-| Jessie J     | 5.97            |
-| Dua Lipa     | 5.76            |
+| 24 News HD   | 329.37          |
+| Slogo        | 60.37           |
+| Dua Lipa     | 48.60           |
 
 
 ### 5. Which 3 channels have the highest views per subscriber ratio?
 
 | Rank | Channel Name       | Views per Subscriber        |
 |------|-----------------   |---------------------------- |
-| 1    | GRM Daily          | 1185.79                     |
-| 2    | Nickelodeon        | 1061.04                     |
-| 3    | Disney Junior UK   | 1031.97                     |
+| 1    | Dumori Bay         | 1195.64                     |
+| 2    | ARPO the Robot     | 1062.26                     |
+| 3    | Awakening Music    | 1029.16                     |
 
 
 
@@ -505,9 +505,9 @@ Here are the key questions we need to answer for our marketing client:
 
 | Rank | Channel Name    | Subscriber Engagement Rate  |
 |------|-----------------|---------------------------- |
-| 1    | Mark Ronson     | 343,000                     |
-| 2    | Jessie J        | 110,416.67                  |
-| 3    | Dua Lipa        | 104,954.95                  |
+| 1    | 24 News HD      | 345,000                     |
+| 2    | Slogo           | 110,416.67                  |
+| 3    | Dua Lipa        | 86,131.39                   |
 
 
 
@@ -531,33 +531,42 @@ For this analysis, we'll prioritize analysing the metrics that are important in 
 Campaign idea = product placement 
 
 1. NoCopyrightSounds 
-- Average views per video = 6.92 million
+- Average views per video = 6.58 million
 - Product cost = $5
-- Potential units sold per video = 6.92 million x 2% conversion rate = 138,400 units sold
-- Potential revenue per video = 138,400 x $5 = $692,000
+- Potential units sold per video = 6.58 million x 2% conversion rate = 131,600 units sold
+- Potential revenue per video = 131,600 x $5 = $658,000
 - Campaign cost (one-time fee) = $50,000
-- **Net profit = $692,000 - $50,000 = $642,000**
+- **Net profit = $658,000 - $50,000 = $608,000**
 
 b. DanTDM
 
-- Average views per video = 5.34 million
+- Average views per video = 5.35 million
 - Product cost = $5
-- Potential units sold per video = 5.34 million x 2% conversion rate = 106,800 units sold
-- Potential revenue per video = 106,800 x $5 = $534,000
+- Potential units sold per video = 5.35 million x 2% conversion rate = 107,000 units sold
+- Potential revenue per video = 107,000 x $5 = $535,000
 - Campaign cost (one-time fee) = $50,000
-- **Net profit = $534,000 - $50,000 = $484,000**
+- **Net profit = $535,000 - $50,000 = $485,000**
 
 c. Dan Rhodes
 
-- Average views per video = 11.15 million
+- Average views per video = 11.32 million
 - Product cost = $5
-- Potential units sold per video = 11.15 million x 2% conversion rate = 223,000 units sold
-- Potential revenue per video = 223,000 x $5 = $1,115,000
+- Potential units sold per video = 11.32 million x 2% conversion rate = 226,400 units sold
+- Potential revenue per video = 226,400 x $5 = $1,132,000
 - Campaign cost (one-time fee) = $50,000
-- **Net profit = $1,115,000 - $50,000 = $1,065,000**
+- **Net profit = $1,132,000 - $50,000 = $1,082,000**
 
 
-Best option from category: Dan Rhodes
+c. Mister Max
+
+- Average views per video = 14.02 million
+- Product cost = $5
+- Potential units sold per video = 14.02 million x 2% conversion rate = 280,400 units sold
+- Potential revenue per video = 280,400 x $5 = $1,402,000
+- Campaign cost (one-time fee) = $50,000
+- **Net profit = $1,402,000 - $50,000 = $1,352,000**
+
+Best option from category: Mister Max
 
 
 #### SQL query 
@@ -604,7 +613,7 @@ FROM
 
 -- 4. 
 WHERE 
-    channel_name in ('NoCopyrightSounds', 'DanTDM', 'Dan Rhodes')    
+    channel_name in ('NoCopyrightSounds', 'DanTDM', 'Dan Rhodes' 'Mister Max')    
 
 
 -- 5.  
@@ -621,36 +630,35 @@ ORDER BY
 
 ### Calculation breakdown 
 
-Campaign idea = sponsored video series  
 
-1. GRM Daily
-- Average views per video = 510,000
+1. **Boomerang UK**
+- Average views per video = 20,000
 - Product cost = $5
-- Potential units sold per video = 510,000 x 2% conversion rate = 10,200 units sold
-- Potential revenue per video = 10,200 x $5= $51,000
-- Campaign cost (11-videos @ $5,000 each) = $55,000
-- **Net profit = $51,000 - $55,000 = -$4,000 (potential loss)**
+- Potential units sold per video = 20,000 x 2% conversion rate = 400 units sold
+- Potential revenue per video = 400 x $5= $2,000
+- Campaign cost (One time fee) = $50,000
+- **Net profit = $2,000 - $50,000 = -$48,000 (potential loss)**
 
-b. **Manchester City**
+b. **More Emily**
 
-- Average views per video = 240,000
+- Average views per video = 90,000
 - Product cost = $5
-- Potential units sold per video = 240,000 x 2% conversion rate = 4,800 units sold
-- Potential revenue per video = 4,800 x $5= $24,000
-- Campaign cost (11-videos @ $5,000 each) = $55,000
-- **Net profit = $24,000 - $55,000 = -$31,000 (potential loss)**
+- Potential units sold per video = 90,000 x 2% conversion rate = 1,800 units sold
+- Potential revenue per video = 1,800 x $5= $9,000
+- Campaign cost (One time fee) = $50,000
+- **Net profit = $9,000 - $50,000 = -$41,000 (potential loss)**
 
-b. **Yogscast**
+b. **Sing King**
 
-- Average views per video = 710,000
+- Average views per video = 120,000
 - Product cost = $5
-- Potential units sold per video = 710,000 x 2% conversion rate = 14,200 units sold
-- Potential revenue per video = 14,200 x $5= $71,000
-- Campaign cost (11-videos @ $5,000 each) = $55,000
-- **Net profit = $71,000 - $55,000 = $16,000 (profit)**
+- Potential units sold per video = 120,000 x 2% conversion rate = 2,400 units sold
+- Potential revenue per video = 2,400 x $5= $12,000
+- Campaign cost (One time fee) = $50,000
+- **Net profit = $12,000 - $50,000 = -$38,000 (potential loss)**
 
 
-Best option from category: Yogscast
+Analysis: Boomerang UK, More Emily and Sing King will not yield adequate profits for the project 
 
 #### SQL query 
 ```sql
@@ -712,34 +720,36 @@ ORDER BY
 
 #### Calculation breakdown
 
-Campaign idea = Influencer marketing 
 
 a. DanTDM
 
-- Average views per video = 5.34 million
+- Average views per video = 5.35 million
 - Product cost = $5
-- Potential units sold per video = 5.34 million x 2% conversion rate = 106,800 units sold
-- Potential revenue per video = 106,800 x $5 = $534,000
-- Campaign cost (3-month contract) = $130,000
-- **Net profit = $534,000 - $130,000 = $404,000**
+- Potential units sold per video = 5.35 million x 2% conversion rate = 107,000 units sold
+- Potential revenue per video = 107,000 x $5 = $535,000
+- Campaign cost (one-time fee) = $50,000
+- **Net profit = $535,000 - $50,000 = $485,000**
+
 
 b. Dan Rhodes
 
-- Average views per video = 11.15 million
+- Average views per video = 11.32 million
 - Product cost = $5
-- Potential units sold per video = 11.15 million x 2% conversion rate = 223,000 units sold
-- Potential revenue per video = 223,000 x $5 = $1,115,000
-- Campaign cost (3-month contract) = $130,000
-- **Net profit = $1,115,000 - $130,000 = $985,000**
+- Potential units sold per video = 11.32 million x 2% conversion rate = 226,400 units sold
+- Potential revenue per video = 226,400 x $5 = $1,132,000
+- Campaign cost (one-time fee) = $50,000
+- **Net profit = $1,132,000 - $50,000 = $1,082,000**
 
+  
 c. Mister Max
 
-- Average views per video = 14.06 million
+- Average views per video = 14.02 million
 - Product cost = $5
-- Potential units sold per video = 14.06 million x 2% conversion rate = 281,200 units sold
-- Potential revenue per video = 281,200 x $5 = $1,406,000
-- Campaign cost (3-month contract) = $130,000
-- **Net profit = $1,406,000 - $130,000 = $1,276,000**
+- Potential units sold per video = 14.02 million x 2% conversion rate = 280,400 units sold
+- Potential revenue per video = 280,400 x $5 = $1,402,000
+- Campaign cost (one-time fee) = $50,000
+- **Net profit = $1,402,000 - $50,000 = $1,352,000**
+
 
 Best option from category: Mister Max
 
@@ -812,9 +822,8 @@ We discovered that
 
 
 1. NoCopyrightSOunds, Dan Rhodes and DanTDM are the channnels with the most subscribers in the UK
-2. GRM Daily, Man City and Yogscast are the channels with the most videos uploaded
-3. DanTDM, Dan RHodes and Mister Max are the channels with the most views
-4. Entertainment channels are useful for broader reach, as the channels posting consistently on their platforms and generating the most engagement are focus on entertainment and music 
+2. Boomerang UK, More Emily and Sing King are the channels with the most videos uploaded
+3. DanTDM, Dan Rhodes and Mister Max are the channels with the most views
 
 
 
@@ -823,7 +832,7 @@ We discovered that
 
 - What do you recommend based on the insights gathered? 
   
-1. Mister Max is the best YouTuber to collaborate with if we're interested in maximizing reach. This is due to the fact that it has the third highest View Count out of all the channels and also the most subscriber engagement. It is my number 1 recommendation however, other channels may be more attractive to our client depending on the target audience because Mister Max's content is mostly geared towards children. 
+1. Mister Max is the best YouTuber to collaborate with if we're interested in maximizing reach. This is due to the fact that it has the highest average views per video and also the most subscriber engagement. It is my number 1 recommendation however, other channels may be more attractive to our client depending on the target audience because Mister Max's content is mostly geared towards children. 
 2. Dan Rhodes, NoCopyrightSounds and DanTDM  are also strong potential candidates with high subscibers and view counts that may maximize profits. These channels also have a older target audience.
 
 
